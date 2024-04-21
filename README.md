@@ -1,3 +1,2 @@
 Bootstrap-tamplate
-
-- bootstrap design
+bootstrap design
