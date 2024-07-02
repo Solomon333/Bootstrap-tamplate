@@ -1,3 +1,3 @@
-Bootstrap-tamplate
+Bootstrap- tamplate
 
 bootstrap design
